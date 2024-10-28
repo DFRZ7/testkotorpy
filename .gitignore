@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache directories
+.pytest_cache/
+.mypy_cache/
+
+# IDE or editor specific files
+.vscode/
+.idea/
